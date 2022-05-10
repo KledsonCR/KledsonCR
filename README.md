@@ -1,10 +1,18 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/kledson-rabelo-028b5a232"><i>Kledson Costa Rabelo</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/kledson-rabelo-028b5a232"><i>Kledson</i></a> 😃️</h1>
   <p align="center">Estudo Análise e Desenvolvimento de Sistemas na Universidade da Amazônia <a href="https://www.unama.br"><i>Unama</i></a> E estou em busca de novas oportunidades, experiências e desafios !
-  
+    
   </a><br>
-  <p align="center">Conta nova no GitHub, Novos projetos vem por ai! 😉️</h2>
+  <p align="center">Foco nos Estudos! 😉️</h2>
+</div> 
+
+<div align="center">
+  <a href="https://github.com/KledsonCR">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KledsonCR&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KledsonCR&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
+
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -17,6 +25,11 @@
   <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <a href = "https://www.postgresql.org/"><img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"></a>
+  <a href = "https://www.mongodb.com/pt-br/1"><img align="center" alt="MongoDB" title="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"></a>
+  <a href = "https://www.mysql.com/"><img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
+  
+  
  
 
   </div><br>
