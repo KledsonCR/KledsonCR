@@ -1,9 +1,9 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/kledson-rabelo-028b5a232"><i>Kledson</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/kledson-rabelo-028b5a232"><i>Kledson</i></a> 👋😃️</h1>
   <p align="center">Estudo Análise e Desenvolvimento de Sistemas na Universidade da Amazônia <a href="https://www.unama.br"><i>Unama</i></a> E estou em busca de novas oportunidades, experiências e desafios !
     
   </a><br>
-  <p align="center">Foco nos Estudos! 😉️</h2>
+  <p align="center">Foco nos Estudos! 👨‍💻</h2>
 </div> 
 
 <div align="center">
