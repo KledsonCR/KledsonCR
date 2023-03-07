@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/kledson-rabelo-028b5a232"><i>Kledson</i></a> 👋😃️</h1>
-  <p align="center">Sou graduado em Análise e Desenvolvimento de Sistemas na Universidade da Amazônia, estou me graduando em Ciência da Computação<a href="https://www.unama.br"><i>Unama</i></a> E estou em busca de novas oportunidades, experiências e encarar desafios !
+  <p align="center">Sou graduado em Análise e Desenvolvimento de Sistemas na Universidade da Amazônia, estou me graduando em Ciência da Computação na <a href="https://www.unama.br"><i>Unama</i></a> E estou em busca de novas oportunidades, experiências e encarar desafios !
     
   </a><br>
   <p align="center">Foco nos Estudos! 👨‍💻</h2>
